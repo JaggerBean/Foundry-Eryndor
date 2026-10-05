@@ -1,0 +1,221 @@
+{
+  "title": "Eryndor",
+  "id": "eryndor",
+  "system": "dnd5e",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "5.3.3",
+  "lastPlayed": "Mon Oct 05 2026 14:31:19 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 94255,
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-eryndor-ddb-backgrounds",
+      "banner": "modules/ddb-importer/storage/ddb/banner/backgrounds.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-eryndor-ddb-classes",
+      "banner": "modules/ddb-importer/storage/ddb/banner/classes.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-eryndor-ddb-feats",
+      "banner": "modules/ddb-importer/storage/ddb/banner/feats.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-eryndor-ddb-items",
+      "banner": "modules/ddb-importer/storage/ddb/banner/items.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-eryndor-ddb-monsters",
+      "banner": "modules/ddb-importer/storage/ddb/banner/monsters.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-eryndor-ddb-vehicles",
+      "banner": "modules/ddb-importer/storage/ddb/banner/vehicles.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Species",
+      "name": "ddb-eryndor-ddb-species",
+      "banner": "modules/ddb-importer/storage/ddb/banner/species.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-species",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-eryndor-ddb-spells",
+      "banner": "modules/ddb-importer/storage/ddb/banner/spells.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-eryndor-ddb-tables",
+      "banner": "modules/ddb-importer/storage/ddb/banner/tables.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-eryndor-ddb-override",
+      "banner": "modules/ddb-importer/storage/ddb/banner/override.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "JournalEntry",
+      "label": "DDB Journals",
+      "name": "ddb-eryndor-ddb-journals",
+      "banner": "modules/ddb-importer/storage/ddb/banner/journals.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-journals",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Summons",
+      "name": "ddb-eryndor-ddb-summons",
+      "banner": "modules/ddb-importer/storage/ddb/banner/summons.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-eryndor-ddb-summons",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "",
+  "flags": {}
+}
