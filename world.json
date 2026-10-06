@@ -2,13 +2,13 @@
   "title": "Eryndor",
   "id": "eryndor",
   "system": "dnd5e",
-  "coreVersion": "13.351",
+  "coreVersion": "14.368",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14.368"
   },
   "systemVersion": "5.3.3",
-  "lastPlayed": "Tue Oct 06 2026 12:29:12 GMT-0400 (Eastern Daylight Time)",
+  "lastPlayed": "Tue Oct 06 2026 12:41:53 GMT-0400 (Eastern Daylight Time)",
   "playtime": 114285,
   "packs": [
     {
