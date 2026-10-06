@@ -1,3 +1,7 @@
 2026/10/05-21:21:31.286 6494 Recovering log #175
 2026/10/05-21:21:31.297 6494 Delete type=0 #175
 2026/10/05-21:21:31.297 6494 Delete type=3 #173
+2026/10/05-23:07:33.278 9c48 Level-0 table #180: started
+2026/10/05-23:07:33.278 9c48 Level-0 table #180: 0 bytes OK
+2026/10/05-23:07:33.284 9c48 Delete type=0 #178
+2026/10/05-23:07:33.298 9c48 Manual compaction at level-0 from '!items!hxZOdPIcil9l0itc' @ 72057594037927935 : 1 .. '!items!hxZOdPIcil9l0itc' @ 0 : 0; will stop at (end)

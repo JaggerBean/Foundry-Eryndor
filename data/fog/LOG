@@ -1,3 +1,8 @@
 2026/10/05-21:21:31.257 5204 Recovering log #202
 2026/10/05-21:21:31.268 5204 Delete type=0 #202
 2026/10/05-21:21:31.268 5204 Delete type=3 #200
+2026/10/05-23:07:33.579 9c48 Level-0 table #207: started
+2026/10/05-23:07:33.579 9c48 Level-0 table #207: 0 bytes OK
+2026/10/05-23:07:33.589 9c48 Delete type=0 #205
+2026/10/05-23:07:33.589 9c48 Manual compaction at level-0 from '!fog!1C6rIlR6JomlVuod' @ 72057594037927935 : 1 .. '!fog!w9jQ599oyWMTDvTr' @ 0 : 0; will stop at (end)
+2026/10/05-23:07:33.589 9c48 Manual compaction at level-1 from '!fog!1C6rIlR6JomlVuod' @ 72057594037927935 : 1 .. '!fog!w9jQ599oyWMTDvTr' @ 0 : 0; will stop at (end)
