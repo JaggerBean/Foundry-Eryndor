@@ -1,0 +1,18 @@
+FREE AUDIO LIBRARY FOR ERYNDOR
+Imported 2026-10-06. All 300 audio files are CC0 (public domain dedication); attribution is not required.
+
+Small Sound Kit by Sound Work 12 — 119 clips
+https://store.godotengine.org/asset/natalia-oleinikova/small-sound-kit/
+Original WAV files were converted to OGG Vorbis for smaller Foundry downloads. Original category folders are preserved.
+
+RPG Audio by Kenney — 51 clips
+https://kenney.nl/assets/rpg-audio
+Original OGG files, in Kenney-RPG-Audio.
+
+Impact Sounds by Kenney — 130 clips
+https://kenney.nl/assets/impact-sounds
+Original OGG files, split into Footsteps and Impacts.
+
+CC0 license: https://creativecommons.org/publicdomain/zero/1.0/
+
+These are raw audio assets for use in Foundry playlists, ambient sounds, and Dynamic Soundscapes. They have not been automatically added as playlist tracks.
