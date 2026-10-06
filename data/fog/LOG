@@ -1,3 +1,8 @@
 2026/10/06-10:53:39.891 bda4 Recovering log #212
 2026/10/06-10:53:39.903 bda4 Delete type=0 #212
 2026/10/06-10:53:39.903 bda4 Delete type=3 #210
+2026/10/06-12:29:14.020 3794 Level-0 table #218: started
+2026/10/06-12:29:14.020 3794 Level-0 table #218: 0 bytes OK
+2026/10/06-12:29:14.030 3794 Delete type=0 #216
+2026/10/06-12:29:14.030 3794 Manual compaction at level-0 from '!fog!1C6rIlR6JomlVuod' @ 72057594037927935 : 1 .. '!fog!w9jQ599oyWMTDvTr' @ 0 : 0; will stop at (end)
+2026/10/06-12:29:14.030 3794 Manual compaction at level-1 from '!fog!1C6rIlR6JomlVuod' @ 72057594037927935 : 1 .. '!fog!w9jQ599oyWMTDvTr' @ 0 : 0; will stop at (end)
