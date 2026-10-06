@@ -1,3 +1,23 @@
-2026/10/06-12:41:53.106 b250 Recovering log #230
-2026/10/06-12:41:53.118 b250 Delete type=0 #230
-2026/10/06-12:41:53.118 b250 Delete type=3 #228
+2026/10/06-13:12:01.287 3404 Recovering log #234
+2026/10/06-13:12:01.288 3404 Level-0 table #236: started
+2026/10/06-13:12:01.298 3404 Level-0 table #236: 387513 bytes OK
+2026/10/06-13:12:01.310 3404 Delete type=0 #234
+2026/10/06-13:12:01.310 3404 Delete type=3 #233
+2026/10/06-13:17:58.354 82a0 Level-0 table #239: started
+2026/10/06-13:17:58.354 82a0 Level-0 table #239: 0 bytes OK
+2026/10/06-13:17:58.361 82a0 Delete type=0 #237
+2026/10/06-13:17:58.374 82a0 Manual compaction at level-0 from '!scenes!0veBdUtEJ23KR60Q' @ 72057594037927935 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 15609 : 1
+2026/10/06-13:17:58.374 82a0 Compacting 1@0 + 0@1 files
+2026/10/06-13:17:58.382 82a0 Generated table #240@0: 1397 keys, 185250 bytes
+2026/10/06-13:17:58.382 82a0 Compacted 1@0 + 0@1 files => 185250 bytes
+2026/10/06-13:17:58.385 82a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-13:17:58.385 82a0 Delete type=2 #236
+2026/10/06-13:17:58.416 82a0 Manual compaction at level-0 from '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 15609 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at (end)
+2026/10/06-13:17:58.447 82a0 Manual compaction at level-1 from '!scenes!0veBdUtEJ23KR60Q' @ 72057594037927935 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 15609 : 1
+2026/10/06-13:17:58.447 82a0 Compacting 1@1 + 1@2 files
+2026/10/06-13:17:58.460 82a0 Generated table #241@1: 1523 keys, 195511 bytes
+2026/10/06-13:17:58.460 82a0 Compacted 1@1 + 1@2 files => 195511 bytes
+2026/10/06-13:17:58.466 82a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/06-13:17:58.466 82a0 Delete type=2 #232
+2026/10/06-13:17:58.466 82a0 Delete type=2 #240
+2026/10/06-13:17:58.485 82a0 Manual compaction at level-1 from '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 15609 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at (end)

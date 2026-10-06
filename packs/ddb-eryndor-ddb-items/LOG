@@ -1,3 +1,8 @@
-2026/10/06-12:41:53.551 b250 Recovering log #112
-2026/10/06-12:41:53.562 b250 Delete type=0 #112
-2026/10/06-12:41:53.562 b250 Delete type=3 #110
+2026/10/06-13:12:01.494 9c4 Recovering log #115
+2026/10/06-13:12:01.505 9c4 Delete type=0 #115
+2026/10/06-13:12:01.506 9c4 Delete type=3 #114
+2026/10/06-13:17:56.704 82a0 Level-0 table #119: started
+2026/10/06-13:17:56.704 82a0 Level-0 table #119: 0 bytes OK
+2026/10/06-13:17:56.708 82a0 Delete type=0 #117
+2026/10/06-13:17:56.718 82a0 Manual compaction at level-0 from '!folders!UpoUAhbCRZMDp2Nc' @ 72057594037927935 : 1 .. '!items!zOUraMSN1Gn5uVJ4' @ 0 : 0; will stop at (end)
+2026/10/06-13:17:56.718 82a0 Manual compaction at level-1 from '!folders!UpoUAhbCRZMDp2Nc' @ 72057594037927935 : 1 .. '!items!zOUraMSN1Gn5uVJ4' @ 0 : 0; will stop at (end)
