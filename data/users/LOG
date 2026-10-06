@@ -1,3 +1,5 @@
-2026/10/06-08:48:31.073 51e8 Recovering log #217
-2026/10/06-08:48:31.084 51e8 Delete type=0 #217
-2026/10/06-08:48:31.084 51e8 Delete type=3 #215
+2026/10/06-09:36:53.651 be6c Recovering log #220
+2026/10/06-09:36:53.651 be6c Level-0 table #222: started
+2026/10/06-09:36:53.660 be6c Level-0 table #222: 3767 bytes OK
+2026/10/06-09:36:53.671 be6c Delete type=0 #220
+2026/10/06-09:36:53.671 be6c Delete type=3 #219

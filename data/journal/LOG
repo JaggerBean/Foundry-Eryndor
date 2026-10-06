@@ -1,3 +1,6 @@
-2026/10/06-08:48:30.940 6494 Recovering log #186
-2026/10/06-08:48:30.951 6494 Delete type=0 #186
-2026/10/06-08:48:30.951 6494 Delete type=3 #184
+2026/10/06-09:36:53.529 bda4 Recovering log #189
+2026/10/06-09:36:53.529 bda4 Level-0 table #191: started
+2026/10/06-09:36:53.538 bda4 Level-0 table #191: 3273 bytes OK
+2026/10/06-09:36:53.550 bda4 Delete type=0 #189
+2026/10/06-09:36:53.550 bda4 Delete type=3 #188
+2026/10/06-09:36:53.704 3794 Moved #191 to level-1 3273 bytes OK: files[ 0 1 1 0 0 0 0 ]
