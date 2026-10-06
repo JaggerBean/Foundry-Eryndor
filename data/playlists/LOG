@@ -1,23 +1,5 @@
-2026/10/06-13:12:01.242 3404 Recovering log #191
-2026/10/06-13:12:01.242 3404 Level-0 table #193: started
-2026/10/06-13:12:01.248 3404 Level-0 table #193: 15488 bytes OK
-2026/10/06-13:12:01.259 3404 Delete type=0 #191
-2026/10/06-13:12:01.259 3404 Delete type=3 #190
-2026/10/06-13:17:58.290 82a0 Level-0 table #196: started
-2026/10/06-13:17:58.290 82a0 Level-0 table #196: 0 bytes OK
-2026/10/06-13:17:58.297 82a0 Delete type=0 #194
-2026/10/06-13:17:58.318 82a0 Manual compaction at level-0 from '!playlists!28fJRrry7RVR34BH' @ 72057594037927935 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at '!playlists.sounds!28fJRrry7RVR34BH.WCY4Yk6zV627tpwh' @ 2928 : 1
-2026/10/06-13:17:58.318 82a0 Compacting 1@0 + 0@1 files
-2026/10/06-13:17:58.327 82a0 Generated table #197@0: 5 keys, 1967 bytes
-2026/10/06-13:17:58.327 82a0 Compacted 1@0 + 0@1 files => 1967 bytes
-2026/10/06-13:17:58.331 82a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/06-13:17:58.331 82a0 Delete type=2 #193
-2026/10/06-13:17:58.354 82a0 Manual compaction at level-0 from '!playlists.sounds!28fJRrry7RVR34BH.WCY4Yk6zV627tpwh' @ 2928 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at (end)
-2026/10/06-13:17:58.361 82a0 Manual compaction at level-1 from '!playlists!28fJRrry7RVR34BH' @ 72057594037927935 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at '!playlists.sounds!28fJRrry7RVR34BH.WCY4Yk6zV627tpwh' @ 3013 : 1
-2026/10/06-13:17:58.361 82a0 Compacting 1@1 + 1@2 files
-2026/10/06-13:17:58.368 82a0 Generated table #198@1: 14 keys, 4241 bytes
-2026/10/06-13:17:58.368 82a0 Compacted 1@1 + 1@2 files => 4241 bytes
-2026/10/06-13:17:58.370 82a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/10/06-13:17:58.370 82a0 Delete type=2 #189
-2026/10/06-13:17:58.370 82a0 Delete type=2 #197
-2026/10/06-13:17:58.391 82a0 Manual compaction at level-1 from '!playlists.sounds!28fJRrry7RVR34BH.WCY4Yk6zV627tpwh' @ 3013 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at (end)
+2026/10/06-13:30:59.844 4494 Recovering log #200
+2026/10/06-13:30:59.844 4494 Level-0 table #202: started
+2026/10/06-13:30:59.852 4494 Level-0 table #202: 2861 bytes OK
+2026/10/06-13:30:59.864 4494 Delete type=0 #200
+2026/10/06-13:30:59.864 4494 Delete type=3 #199

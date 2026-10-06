@@ -1,23 +1,3 @@
-2026/10/06-13:12:01.610 a80c Recovering log #116
-2026/10/06-13:12:01.610 a80c Level-0 table #118: started
-2026/10/06-13:12:01.616 a80c Level-0 table #118: 28895 bytes OK
-2026/10/06-13:12:01.627 a80c Delete type=0 #116
-2026/10/06-13:12:01.627 a80c Delete type=3 #115
-2026/10/06-13:17:56.720 82a0 Level-0 table #121: started
-2026/10/06-13:17:56.720 82a0 Level-0 table #121: 0 bytes OK
-2026/10/06-13:17:56.728 82a0 Delete type=0 #119
-2026/10/06-13:17:56.742 82a0 Manual compaction at level-0 from '!actors!MfuK0AdmcMAlftWK' @ 72057594037927935 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at '!actors.items.effects!SGHlXpS5NCaxEfUI.VoLfuDGgQWUgG70U.rOxjHozbg7xr560N' @ 31 : 1
-2026/10/06-13:17:56.742 82a0 Compacting 1@0 + 0@1 files
-2026/10/06-13:17:56.747 82a0 Generated table #122@0: 17 keys, 28895 bytes
-2026/10/06-13:17:56.747 82a0 Compacted 1@0 + 0@1 files => 28895 bytes
-2026/10/06-13:17:56.752 82a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/06-13:17:56.752 82a0 Delete type=2 #118
-2026/10/06-13:17:56.753 82a0 Manual compaction at level-0 from '!actors.items.effects!SGHlXpS5NCaxEfUI.VoLfuDGgQWUgG70U.rOxjHozbg7xr560N' @ 31 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at (end)
-2026/10/06-13:17:56.753 82a0 Manual compaction at level-1 from '!actors!MfuK0AdmcMAlftWK' @ 72057594037927935 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at '!actors.items.effects!SGHlXpS5NCaxEfUI.VoLfuDGgQWUgG70U.rOxjHozbg7xr560N' @ 31 : 1
-2026/10/06-13:17:56.753 82a0 Compacting 1@1 + 1@2 files
-2026/10/06-13:17:56.764 82a0 Generated table #123@1: 19 keys, 29495 bytes
-2026/10/06-13:17:56.764 82a0 Compacted 1@1 + 1@2 files => 29495 bytes
-2026/10/06-13:17:56.766 82a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/10/06-13:17:56.766 82a0 Delete type=2 #96
-2026/10/06-13:17:56.766 82a0 Delete type=2 #122
-2026/10/06-13:17:56.778 82a0 Manual compaction at level-1 from '!actors.items.effects!SGHlXpS5NCaxEfUI.VoLfuDGgQWUgG70U.rOxjHozbg7xr560N' @ 31 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at (end)
+2026/10/06-13:31:00.201 4494 Recovering log #125
+2026/10/06-13:31:00.213 4494 Delete type=0 #125
+2026/10/06-13:31:00.213 4494 Delete type=3 #124
