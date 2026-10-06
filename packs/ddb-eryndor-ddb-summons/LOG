@@ -1,3 +1,8 @@
 2026/10/06-09:36:53.903 bda4 Recovering log #106
 2026/10/06-09:36:53.914 bda4 Delete type=0 #106
 2026/10/06-09:36:53.914 bda4 Delete type=3 #105
+2026/10/06-10:53:25.946 3794 Level-0 table #110: started
+2026/10/06-10:53:25.946 3794 Level-0 table #110: 0 bytes OK
+2026/10/06-10:53:25.950 3794 Delete type=0 #108
+2026/10/06-10:53:25.950 3794 Manual compaction at level-0 from '!actors!MfuK0AdmcMAlftWK' @ 72057594037927935 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at (end)
+2026/10/06-10:53:25.950 3794 Manual compaction at level-1 from '!actors!MfuK0AdmcMAlftWK' @ 72057594037927935 : 1 .. '!folders!yIovAIU4NHAoIPtb' @ 0 : 0; will stop at (end)
