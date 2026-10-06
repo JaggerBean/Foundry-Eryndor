@@ -1,17 +1,14 @@
-2026/10/05-12:28:14.039 b0f4 Recovering log #207
-2026/10/05-12:28:14.039 b0f4 Level-0 table #209: started
-2026/10/05-12:28:14.048 b0f4 Level-0 table #209: 839 bytes OK
-2026/10/05-12:28:14.059 b0f4 Delete type=0 #207
-2026/10/05-12:28:14.059 b0f4 Delete type=3 #206
-2026/10/05-14:31:20.239 7f8c Level-0 table #212: started
-2026/10/05-14:31:20.246 7f8c Level-0 table #212: 73276 bytes OK
-2026/10/05-14:31:20.251 7f8c Delete type=0 #210
-2026/10/05-14:31:20.258 7f8c Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!JeO2d81H17Rsv8cH' @ 367 : 1
-2026/10/05-14:31:20.258 7f8c Compacting 2@0 + 1@1 files
-2026/10/05-14:31:20.287 7f8c Generated table #213@0: 218 keys, 234334 bytes
-2026/10/05-14:31:20.287 7f8c Compacted 2@0 + 1@1 files => 234334 bytes
-2026/10/05-14:31:20.291 7f8c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/05-14:31:20.291 7f8c Delete type=2 #205
-2026/10/05-14:31:20.291 7f8c Delete type=2 #209
-2026/10/05-14:31:20.291 7f8c Delete type=2 #212
-2026/10/05-14:31:20.298 7f8c Manual compaction at level-0 from '!messages!JeO2d81H17Rsv8cH' @ 367 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)
+2026/10/05-20:24:39.028 6494 Recovering log #211
+2026/10/05-20:24:39.039 6494 Delete type=0 #211
+2026/10/05-20:24:39.039 6494 Delete type=3 #208
+2026/10/05-21:21:25.186 9c48 Level-0 table #217: started
+2026/10/05-21:21:25.200 9c48 Level-0 table #217: 840 bytes OK
+2026/10/05-21:21:25.204 9c48 Delete type=0 #215
+2026/10/05-21:21:25.227 9c48 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!uwds51arIIe4jA1Z' @ 406 : 1
+2026/10/05-21:21:25.227 9c48 Compacting 1@0 + 1@1 files
+2026/10/05-21:21:25.254 9c48 Generated table #218@0: 219 keys, 234897 bytes
+2026/10/05-21:21:25.254 9c48 Compacted 1@0 + 1@1 files => 234897 bytes
+2026/10/05-21:21:25.258 9c48 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/05-21:21:25.258 9c48 Delete type=2 #213
+2026/10/05-21:21:25.258 9c48 Delete type=2 #217
+2026/10/05-21:21:25.258 9c48 Manual compaction at level-0 from '!messages!uwds51arIIe4jA1Z' @ 406 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)
