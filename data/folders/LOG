@@ -3,3 +3,22 @@
 2026/10/07-07:49:34.573 6a30 Level-0 table #241: 1833 bytes OK
 2026/10/07-07:49:34.584 6a30 Delete type=0 #239
 2026/10/07-07:49:34.584 6a30 Delete type=3 #238
+2026/10/07-13:34:22.139 c86c Level-0 table #244: started
+2026/10/07-13:34:22.149 c86c Level-0 table #244: 2641 bytes OK
+2026/10/07-13:34:22.153 c86c Delete type=0 #242
+2026/10/07-13:34:22.187 c86c Manual compaction at level-0 from '!folders!04are7nuqWWEQTsW' @ 72057594037927935 : 1 .. '!folders!zxjgiVrJnuTjLatK' @ 0 : 0; will stop at '!folders!wUpErlf99KqnnRYI' @ 101 : 1
+2026/10/07-13:34:22.187 c86c Compacting 2@0 + 0@1 files
+2026/10/07-13:34:22.195 c86c Generated table #245@0: 22 keys, 3142 bytes
+2026/10/07-13:34:22.195 c86c Compacted 2@0 + 0@1 files => 3142 bytes
+2026/10/07-13:34:22.200 c86c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/07-13:34:22.200 c86c Delete type=2 #241
+2026/10/07-13:34:22.200 c86c Delete type=2 #244
+2026/10/07-13:34:22.234 c86c Manual compaction at level-0 from '!folders!wUpErlf99KqnnRYI' @ 101 : 1 .. '!folders!zxjgiVrJnuTjLatK' @ 0 : 0; will stop at (end)
+2026/10/07-13:34:22.247 c86c Manual compaction at level-1 from '!folders!04are7nuqWWEQTsW' @ 72057594037927935 : 1 .. '!folders!zxjgiVrJnuTjLatK' @ 0 : 0; will stop at '!folders!wUpErlf99KqnnRYI' @ 101 : 1
+2026/10/07-13:34:22.247 c86c Compacting 1@1 + 1@2 files
+2026/10/07-13:34:22.255 c86c Generated table #246@1: 75 keys, 11279 bytes
+2026/10/07-13:34:22.255 c86c Compacted 1@1 + 1@2 files => 11279 bytes
+2026/10/07-13:34:22.259 c86c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/07-13:34:22.260 c86c Delete type=2 #235
+2026/10/07-13:34:22.260 c86c Delete type=2 #245
+2026/10/07-13:34:22.269 c86c Manual compaction at level-1 from '!folders!wUpErlf99KqnnRYI' @ 101 : 1 .. '!folders!zxjgiVrJnuTjLatK' @ 0 : 0; will stop at (end)

@@ -3,3 +3,15 @@
 2026/10/07-07:49:34.409 b7ac Level-0 table #250: 1998100 bytes OK
 2026/10/07-07:49:34.419 b7ac Delete type=0 #248
 2026/10/07-07:49:34.419 b7ac Delete type=3 #247
+2026/10/07-13:34:22.034 c86c Level-0 table #253: started
+2026/10/07-13:34:22.046 c86c Level-0 table #253: 1668 bytes OK
+2026/10/07-13:34:22.052 c86c Delete type=0 #251
+2026/10/07-13:34:22.052 c86c Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!IWphJT5CzJIOWdEu' @ 1001 : 1
+2026/10/07-13:34:22.052 c86c Compacting 2@0 + 1@1 files
+2026/10/07-13:34:22.127 c86c Generated table #254@0: 350 keys, 1898979 bytes
+2026/10/07-13:34:22.133 c86c Compacted 2@0 + 1@1 files => 1898979 bytes
+2026/10/07-13:34:22.137 c86c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/07-13:34:22.137 c86c Delete type=2 #244
+2026/10/07-13:34:22.139 c86c Delete type=2 #250
+2026/10/07-13:34:22.139 c86c Delete type=2 #253
+2026/10/07-13:34:22.173 c86c Manual compaction at level-0 from '!messages!IWphJT5CzJIOWdEu' @ 1001 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)

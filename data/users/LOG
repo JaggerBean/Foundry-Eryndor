@@ -3,3 +3,21 @@
 2026/10/07-07:49:34.862 b7ac Level-0 table #247: 145926 bytes OK
 2026/10/07-07:49:34.873 b7ac Delete type=0 #245
 2026/10/07-07:49:34.873 b7ac Delete type=3 #244
+2026/10/07-13:34:22.327 c86c Level-0 table #250: started
+2026/10/07-13:34:22.327 c86c Level-0 table #250: 0 bytes OK
+2026/10/07-13:34:22.332 c86c Delete type=0 #248
+2026/10/07-13:34:22.360 c86c Manual compaction at level-0 from '!users!UfB1yJOLM306aQa3' @ 72057594037927935 : 1 .. '!users!yz6b2hheWAW3ZbZN' @ 0 : 0; will stop at '!users!yz6b2hheWAW3ZbZN' @ 337 : 1
+2026/10/07-13:34:22.360 c86c Compacting 1@0 + 0@1 files
+2026/10/07-13:34:22.367 c86c Generated table #251@0: 5 keys, 7928 bytes
+2026/10/07-13:34:22.367 c86c Compacted 1@0 + 0@1 files => 7928 bytes
+2026/10/07-13:34:22.371 c86c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/07-13:34:22.372 c86c Delete type=2 #247
+2026/10/07-13:34:22.383 c86c Manual compaction at level-0 from '!users!yz6b2hheWAW3ZbZN' @ 337 : 1 .. '!users!yz6b2hheWAW3ZbZN' @ 0 : 0; will stop at (end)
+2026/10/07-13:34:22.407 c86c Manual compaction at level-1 from '!users!UfB1yJOLM306aQa3' @ 72057594037927935 : 1 .. '!users!yz6b2hheWAW3ZbZN' @ 0 : 0; will stop at '!users!yz6b2hheWAW3ZbZN' @ 457 : 1
+2026/10/07-13:34:22.407 c86c Compacting 1@1 + 1@2 files
+2026/10/07-13:34:22.412 c86c Generated table #252@1: 5 keys, 7928 bytes
+2026/10/07-13:34:22.412 c86c Compacted 1@1 + 1@2 files => 7928 bytes
+2026/10/07-13:34:22.416 c86c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/07-13:34:22.416 c86c Delete type=2 #241
+2026/10/07-13:34:22.416 c86c Delete type=2 #251
+2026/10/07-13:34:22.449 c86c Manual compaction at level-1 from '!users!yz6b2hheWAW3ZbZN' @ 457 : 1 .. '!users!yz6b2hheWAW3ZbZN' @ 0 : 0; will stop at (end)
