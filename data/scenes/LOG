@@ -1,3 +1,8 @@
 2026/10/07-15:11:39.879 a86c Recovering log #279
 2026/10/07-15:11:39.890 a86c Delete type=0 #279
 2026/10/07-15:11:39.890 a86c Delete type=3 #278
+2026/10/07-15:45:19.057 4bc0 Level-0 table #283: started
+2026/10/07-15:45:19.057 4bc0 Level-0 table #283: 0 bytes OK
+2026/10/07-15:45:19.066 4bc0 Delete type=0 #281
+2026/10/07-15:45:19.089 4bc0 Manual compaction at level-0 from '!scenes!68y90HGUWu6AcC0p' @ 72057594037927935 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at (end)
+2026/10/07-15:45:19.101 4bc0 Manual compaction at level-1 from '!scenes!68y90HGUWu6AcC0p' @ 72057594037927935 : 1 .. '!scenes.walls!ecn1K4EAN1fFRSV4.vfSCC4Stm7gvKULG' @ 0 : 0; will stop at (end)
