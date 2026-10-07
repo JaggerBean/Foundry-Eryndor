@@ -1,24 +1,3 @@
-2026/10/07-14:25:09.353 f7c Recovering log #238
-2026/10/07-14:25:09.353 f7c Level-0 table #240: started
-2026/10/07-14:25:09.361 f7c Level-0 table #240: 1128 bytes OK
-2026/10/07-14:25:09.374 f7c Delete type=0 #238
-2026/10/07-14:25:09.374 f7c Delete type=3 #237
-2026/10/07-14:25:09.531 116c Moved #240 to level-1 1128 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2026/10/07-14:25:09.534 116c Compacting 1@1 + 1@2 files
-2026/10/07-14:25:09.546 116c Generated table #242@1: 783 keys, 948813 bytes
-2026/10/07-14:25:09.546 116c Compacted 1@1 + 1@2 files => 948813 bytes
-2026/10/07-14:25:09.548 116c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/10/07-14:25:09.548 116c Delete type=2 #236
-2026/10/07-14:25:09.548 116c Delete type=2 #240
-2026/10/07-14:32:17.309 116c Level-0 table #244: started
-2026/10/07-14:32:17.318 116c Level-0 table #244: 1126 bytes OK
-2026/10/07-14:32:17.320 116c Delete type=0 #241
-2026/10/07-14:32:17.320 116c Manual compaction at level-0 from '!journal!1f03d1d933b5c0cb' @ 72057594037927935 : 1 .. '!journal.pages!zOY5kpqKQ047oP4C.aheMZC7bF6sl7NDT' @ 0 : 0; will stop at (end)
-2026/10/07-14:32:17.320 116c Manual compaction at level-1 from '!journal!1f03d1d933b5c0cb' @ 72057594037927935 : 1 .. '!journal.pages!zOY5kpqKQ047oP4C.aheMZC7bF6sl7NDT' @ 0 : 0; will stop at '!journal.pages!np5IgWUgqeGOhrkz.AqGVi54UQLonuhL8' @ 1760 : 1
-2026/10/07-14:32:17.320 116c Compacting 1@1 + 1@2 files
-2026/10/07-14:32:17.332 116c Generated table #245@1: 783 keys, 948812 bytes
-2026/10/07-14:32:17.332 116c Compacted 1@1 + 1@2 files => 948812 bytes
-2026/10/07-14:32:17.334 116c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/10/07-14:32:17.334 116c Delete type=2 #242
-2026/10/07-14:32:17.334 116c Delete type=2 #244
-2026/10/07-14:32:17.349 116c Manual compaction at level-1 from '!journal.pages!np5IgWUgqeGOhrkz.AqGVi54UQLonuhL8' @ 1760 : 1 .. '!journal.pages!zOY5kpqKQ047oP4C.aheMZC7bF6sl7NDT' @ 0 : 0; will stop at (end)
+2026/10/07-14:32:19.020 eb0 Recovering log #243
+2026/10/07-14:32:19.031 eb0 Delete type=0 #243
+2026/10/07-14:32:19.031 eb0 Delete type=3 #239
