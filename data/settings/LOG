@@ -1,5 +1,5 @@
-2026/10/06-13:30:59.904 a2ec Recovering log #250
-2026/10/06-13:30:59.904 a2ec Level-0 table #252: started
-2026/10/06-13:30:59.913 a2ec Level-0 table #252: 3598 bytes OK
-2026/10/06-13:30:59.925 a2ec Delete type=0 #250
-2026/10/06-13:30:59.926 a2ec Delete type=3 #249
+2026/10/07-07:49:34.821 b7ac Recovering log #253
+2026/10/07-07:49:34.822 b7ac Level-0 table #255: started
+2026/10/07-07:49:34.828 b7ac Level-0 table #255: 60991 bytes OK
+2026/10/07-07:49:34.839 b7ac Delete type=0 #253
+2026/10/07-07:49:34.840 b7ac Delete type=3 #251
