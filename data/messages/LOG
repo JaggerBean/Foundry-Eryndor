@@ -1,5 +1,18 @@
-2026/10/07-22:57:36.355 2860 Recovering log #299
-2026/10/07-22:57:36.355 2860 Level-0 table #301: started
-2026/10/07-22:57:36.365 2860 Level-0 table #301: 2507 bytes OK
-2026/10/07-22:57:36.377 2860 Delete type=0 #299
-2026/10/07-22:57:36.377 2860 Delete type=3 #298
+2026/10/08-00:18:20.942 d3cc Recovering log #302
+2026/10/08-00:18:20.942 d3cc Level-0 table #304: started
+2026/10/08-00:18:20.948 d3cc Level-0 table #304: 32347 bytes OK
+2026/10/08-00:18:20.962 d3cc Delete type=0 #302
+2026/10/08-00:18:20.963 d3cc Delete type=3 #300
+2026/10/08-00:29:13.418 1724 Level-0 table #307: started
+2026/10/08-00:29:13.423 1724 Level-0 table #307: 12189 bytes OK
+2026/10/08-00:29:13.427 1724 Delete type=0 #305
+2026/10/08-00:29:13.451 1724 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!zh2aS0iEqVQ1aGKX' @ 1180 : 1
+2026/10/08-00:29:13.451 1724 Compacting 3@0 + 1@1 files
+2026/10/08-00:29:13.533 1724 Generated table #308@0: 534 keys, 2038902 bytes
+2026/10/08-00:29:13.534 1724 Compacted 3@0 + 1@1 files => 2038902 bytes
+2026/10/08-00:29:13.538 1724 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/08-00:29:13.538 1724 Delete type=2 #297
+2026/10/08-00:29:13.538 1724 Delete type=2 #301
+2026/10/08-00:29:13.539 1724 Delete type=2 #304
+2026/10/08-00:29:13.539 1724 Delete type=2 #307
+2026/10/08-00:29:13.544 1724 Manual compaction at level-0 from '!messages!zh2aS0iEqVQ1aGKX' @ 1180 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)

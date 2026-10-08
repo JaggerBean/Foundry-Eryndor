@@ -1,3 +1,6 @@
-2026/10/07-20:46:00.422 aa78 Recovering log #245
-2026/10/07-20:46:00.434 aa78 Delete type=0 #245
-2026/10/07-20:46:00.434 aa78 Delete type=3 #243
+2026/10/07-22:57:36.486 89bc Recovering log #249
+2026/10/07-22:57:36.487 89bc Level-0 table #251: started
+2026/10/07-22:57:36.493 89bc Level-0 table #251: 120989 bytes OK
+2026/10/07-22:57:36.505 89bc Delete type=0 #249
+2026/10/07-22:57:36.505 89bc Delete type=3 #248
+2026/10/08-00:15:30.962 4260 Moved #251 to level-1 120989 bytes OK: files[ 0 1 1 0 0 0 0 ]
