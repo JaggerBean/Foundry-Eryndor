@@ -1,14 +1,14 @@
-2026/10/07-15:45:20.805 ac38 Recovering log #285
-2026/10/07-15:45:20.819 ac38 Delete type=0 #285
-2026/10/07-15:45:20.819 ac38 Delete type=3 #282
-2026/10/07-20:15:10.798 4bc0 Level-0 table #291: started
-2026/10/07-20:15:10.803 4bc0 Level-0 table #291: 23349 bytes OK
-2026/10/07-20:15:10.808 4bc0 Delete type=0 #289
-2026/10/07-20:15:10.808 4bc0 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!yj7FuepI56pFLW5K' @ 1117 : 1
-2026/10/07-20:15:10.808 4bc0 Compacting 1@0 + 1@1 files
-2026/10/07-20:15:10.896 4bc0 Generated table #292@0: 466 keys, 1979893 bytes
-2026/10/07-20:15:10.896 4bc0 Compacted 1@0 + 1@1 files => 1979893 bytes
-2026/10/07-20:15:10.901 4bc0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/07-20:15:10.902 4bc0 Delete type=2 #287
-2026/10/07-20:15:10.902 4bc0 Delete type=2 #291
-2026/10/07-20:15:10.926 4bc0 Manual compaction at level-0 from '!messages!yj7FuepI56pFLW5K' @ 1117 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)
+2026/10/07-20:15:43.649 b198 Recovering log #290
+2026/10/07-20:15:43.662 b198 Delete type=0 #290
+2026/10/07-20:15:43.662 b198 Delete type=3 #288
+2026/10/07-20:45:46.224 4bc0 Level-0 table #296: started
+2026/10/07-20:45:46.233 4bc0 Level-0 table #296: 7225 bytes OK
+2026/10/07-20:45:46.238 4bc0 Delete type=0 #294
+2026/10/07-20:45:46.246 4bc0 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at '!messages!kScHZsQLcN1At7vG' @ 1119 : 1
+2026/10/07-20:45:46.246 4bc0 Compacting 1@0 + 1@1 files
+2026/10/07-20:45:46.339 4bc0 Generated table #297@0: 469 keys, 1986148 bytes
+2026/10/07-20:45:46.339 4bc0 Compacted 1@0 + 1@1 files => 1986148 bytes
+2026/10/07-20:45:46.345 4bc0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/07-20:45:46.345 4bc0 Delete type=2 #292
+2026/10/07-20:45:46.345 4bc0 Delete type=2 #296
+2026/10/07-20:45:46.359 4bc0 Manual compaction at level-0 from '!messages!kScHZsQLcN1At7vG' @ 1119 : 1 .. '!messages!zqwNyJkpJgfPJxfb' @ 0 : 0; will stop at (end)
