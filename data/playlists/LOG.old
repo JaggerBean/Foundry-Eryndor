@@ -1,6 +1,8 @@
-2026/10/07-22:57:36.486 89bc Recovering log #249
-2026/10/07-22:57:36.487 89bc Level-0 table #251: started
-2026/10/07-22:57:36.493 89bc Level-0 table #251: 120989 bytes OK
-2026/10/07-22:57:36.505 89bc Delete type=0 #249
-2026/10/07-22:57:36.505 89bc Delete type=3 #248
-2026/10/08-00:15:30.962 4260 Moved #251 to level-1 120989 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/10/08-20:45:06.799 9fdc Recovering log #281
+2026/10/08-20:45:06.812 9fdc Delete type=0 #281
+2026/10/08-20:45:06.812 9fdc Delete type=3 #279
+2026/10/08-20:53:23.096 ad0 Level-0 table #286: started
+2026/10/08-20:53:23.096 ad0 Level-0 table #286: 0 bytes OK
+2026/10/08-20:53:23.100 ad0 Delete type=0 #284
+2026/10/08-20:53:23.100 ad0 Manual compaction at level-0 from '!playlists!04Ozf84ojAuUFyQi' @ 72057594037927935 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at (end)
+2026/10/08-20:53:23.100 ad0 Manual compaction at level-1 from '!playlists!04Ozf84ojAuUFyQi' @ 72057594037927935 : 1 .. '!playlists.sounds!qDjzVngviPFx75Jk.oGZc8HQBsY5gAlSx' @ 0 : 0; will stop at (end)
