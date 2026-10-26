@@ -1,8 +1,8 @@
-2026/10/09-15:40:40.194 40d0 Recovering log #204
-2026/10/09-15:40:40.205 40d0 Delete type=0 #204
-2026/10/09-15:40:40.205 40d0 Delete type=3 #202
-2026/10/09-23:40:10.723 8a04 Level-0 table #209: started
-2026/10/09-23:40:10.723 8a04 Level-0 table #209: 0 bytes OK
-2026/10/09-23:40:10.728 8a04 Delete type=0 #207
-2026/10/09-23:40:10.728 8a04 Manual compaction at level-0 from '!folders!REZOIWiZMx3TUn32' @ 72057594037927935 : 1 .. '!folders!u2zlS9zDRHnKdZXP' @ 0 : 0; will stop at (end)
-2026/10/09-23:40:10.728 8a04 Manual compaction at level-1 from '!folders!REZOIWiZMx3TUn32' @ 72057594037927935 : 1 .. '!folders!u2zlS9zDRHnKdZXP' @ 0 : 0; will stop at (end)
+2026/10/25-19:42:20.644 992c Recovering log #213
+2026/10/25-19:42:20.697 992c Delete type=0 #213
+2026/10/25-19:42:20.697 992c Delete type=3 #212
+2026/10/25-22:13:43.922 82e0 Level-0 table #217: started
+2026/10/25-22:13:43.922 82e0 Level-0 table #217: 0 bytes OK
+2026/10/25-22:13:43.928 82e0 Delete type=0 #215
+2026/10/25-22:13:43.937 82e0 Manual compaction at level-0 from '!folders!REZOIWiZMx3TUn32' @ 72057594037927935 : 1 .. '!folders!u2zlS9zDRHnKdZXP' @ 0 : 0; will stop at (end)
+2026/10/25-22:13:43.937 82e0 Manual compaction at level-1 from '!folders!REZOIWiZMx3TUn32' @ 72057594037927935 : 1 .. '!folders!u2zlS9zDRHnKdZXP' @ 0 : 0; will stop at (end)

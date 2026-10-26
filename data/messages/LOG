@@ -1,3 +1,7 @@
-2026/10/09-23:51:12.571 8438 Recovering log #357
-2026/10/09-23:51:12.582 8438 Delete type=0 #357
-2026/10/09-23:51:12.582 8438 Delete type=3 #355
+2026/10/25-22:13:56.070 991c Recovering log #368
+2026/10/25-22:13:56.082 991c Delete type=0 #368
+2026/10/25-22:13:56.082 991c Delete type=3 #365
+2026/10/26-16:52:15.225 82e0 Level-0 table #374: started
+2026/10/26-16:52:15.225 82e0 Level-0 table #374: 0 bytes OK
+2026/10/26-16:52:15.231 82e0 Delete type=0 #372
+2026/10/26-16:52:15.242 82e0 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zs78EIg4EUV8YB5U' @ 0 : 0; will stop at (end)
