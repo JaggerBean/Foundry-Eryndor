@@ -1,3 +1,7 @@
 2026/10/27-14:59:22.301 9138 Recovering log #373
 2026/10/27-14:59:22.313 9138 Delete type=0 #373
 2026/10/27-14:59:22.313 9138 Delete type=3 #371
+2026/10/27-19:22:14.605 b1c8 Level-0 table #378: started
+2026/10/27-19:22:14.605 b1c8 Level-0 table #378: 0 bytes OK
+2026/10/27-19:22:14.614 b1c8 Delete type=0 #376
+2026/10/27-19:22:14.636 b1c8 Manual compaction at level-0 from '!messages!0BebDtHPx5Fh7Bo5' @ 72057594037927935 : 1 .. '!messages!zs78EIg4EUV8YB5U' @ 0 : 0; will stop at (end)
