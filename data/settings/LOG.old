@@ -1,14 +1,14 @@
-2026/10/27-14:59:22.677 bed0 Recovering log #380
-2026/10/27-14:59:22.688 bed0 Delete type=0 #380
-2026/10/27-14:59:22.688 bed0 Delete type=3 #378
-2026/10/27-19:22:14.693 b1c8 Level-0 table #386: started
-2026/10/27-19:22:14.698 b1c8 Level-0 table #386: 4459 bytes OK
-2026/10/27-19:22:14.703 b1c8 Delete type=0 #384
-2026/10/27-19:22:14.719 b1c8 Manual compaction at level-0 from '!settings!0f4Q6B35ONdBr4Zu' @ 72057594037927935 : 1 .. '!settings!zmdflrBBWIEV5eHk' @ 0 : 0; will stop at '!settings!tR2pEAyUdOeRt5MR' @ 6574 : 1
-2026/10/27-19:22:14.719 b1c8 Compacting 1@0 + 1@1 files
-2026/10/27-19:22:14.725 b1c8 Generated table #387@0: 518 keys, 96626 bytes
-2026/10/27-19:22:14.725 b1c8 Compacted 1@0 + 1@1 files => 96626 bytes
-2026/10/27-19:22:14.730 b1c8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/27-19:22:14.730 b1c8 Delete type=2 #382
-2026/10/27-19:22:14.730 b1c8 Delete type=2 #386
-2026/10/27-19:22:14.743 b1c8 Manual compaction at level-0 from '!settings!tR2pEAyUdOeRt5MR' @ 6574 : 1 .. '!settings!zmdflrBBWIEV5eHk' @ 0 : 0; will stop at (end)
+2026/10/27-19:22:49.889 9138 Recovering log #385
+2026/10/27-19:22:49.901 9138 Delete type=0 #385
+2026/10/27-19:22:49.901 9138 Delete type=3 #383
+2026/10/27-22:28:00.457 b1c8 Level-0 table #391: started
+2026/10/27-22:28:00.462 b1c8 Level-0 table #391: 19359 bytes OK
+2026/10/27-22:28:00.467 b1c8 Delete type=0 #389
+2026/10/27-22:28:00.481 b1c8 Manual compaction at level-0 from '!settings!0f4Q6B35ONdBr4Zu' @ 72057594037927935 : 1 .. '!settings!zmdflrBBWIEV5eHk' @ 0 : 0; will stop at '!settings!y8aS10Y6i6uYj4jU' @ 6616 : 1
+2026/10/27-22:28:00.481 b1c8 Compacting 1@0 + 1@1 files
+2026/10/27-22:28:00.490 b1c8 Generated table #392@0: 521 keys, 97224 bytes
+2026/10/27-22:28:00.490 b1c8 Compacted 1@0 + 1@1 files => 97224 bytes
+2026/10/27-22:28:00.495 b1c8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/27-22:28:00.495 b1c8 Delete type=2 #387
+2026/10/27-22:28:00.495 b1c8 Delete type=2 #391
+2026/10/27-22:28:00.520 b1c8 Manual compaction at level-0 from '!settings!y8aS10Y6i6uYj4jU' @ 6616 : 1 .. '!settings!zmdflrBBWIEV5eHk' @ 0 : 0; will stop at (end)

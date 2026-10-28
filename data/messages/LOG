@@ -1,3 +1,6 @@
-2026/10/27-19:22:49.561 afc0 Recovering log #377
-2026/10/27-19:22:49.573 afc0 Delete type=0 #377
-2026/10/27-19:22:49.573 afc0 Delete type=3 #375
+2026/10/27-22:28:02.568 afc0 Recovering log #381
+2026/10/27-22:28:02.580 afc0 Delete type=0 #381
+2026/10/27-22:28:02.580 afc0 Delete type=3 #379
+2026/10/27-22:29:25.944 b1c8 Level-0 table #388: started
+2026/10/27-22:29:25.971 b1c8 Level-0 table #388: 639658 bytes OK
+2026/10/27-22:29:25.991 b1c8 Delete type=0 #386
